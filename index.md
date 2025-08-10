@@ -7,9 +7,6 @@ title: My Projects Home
 
 Explore my live projects:
 
-- [Snake Game](https://yourusername.github.io/snake-game/)
-- [Calculator App](https://yourusername.github.io/calculator-app/)
-- [Weather Dashboard](https://yourusername.github.io/weather-dashboard/)
-- [Portfolio Site](https://yourusername.github.io/portfolio/)
+- [Snake Game](https://balaji-krishna.github.io/Snake_Game_Python/)
 
-Feel free to check out the code on [GitHub](https://github.com/yourusername).
+Feel free to check out the code on [GitHub](https://github.com/balaji-krishna).
